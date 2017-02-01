@@ -7,7 +7,7 @@ import {
   View,
 } from 'react-native';
 
-import ActionSheet from '@exponent/react-native-action-sheet';
+
 import moment from 'moment/min/moment-with-locales.min';
 import uuid from 'uuid';
 
@@ -26,6 +26,7 @@ import MessageContainer from './MessageContainer';
 import Send from './Send';
 import Time from './Time';
 import GiftedAvatar from './GiftedAvatar';
+import ActionSheet from '../lib/react-native-action-sheet';
 
 // Min and max heights of ToolbarInput and Composer
 // Needed for Composer auto grow and ScrollView animation

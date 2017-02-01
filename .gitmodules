@@ -1,0 +1,3 @@
+[submodule "lib/react-native-action-sheet"]
+	path = lib/react-native-action-sheet
+	url = git@github.com:arsanjea/react-native-action-sheet.git
